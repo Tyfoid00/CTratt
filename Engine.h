@@ -18,7 +18,8 @@ typedef struct {
 extern float deltaTime;
 extern Vec3 camera;
 
-
+extern void initSDL();
+extern void destroySDL();
 
 
 #endif
