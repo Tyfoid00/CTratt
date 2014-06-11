@@ -9,6 +9,8 @@
 #include <stdio.h>
 #include "Engine.h"
 #include "SDL.h"
+#include "SDL_image.h"
+#include "SDL_ttf.h"
 
 
 SDL_Window* window;
