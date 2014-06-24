@@ -7,6 +7,7 @@
 //
 
 #include <stdio.h>
+#include<string.h>
 #include "Engine.h"
 #include "SDL.h"
 #include "SDL_image.h"
